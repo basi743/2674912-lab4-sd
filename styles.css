@@ -1,0 +1,38 @@
+body {
+  
+    background-color: #e7cece;
+    font-size:15px;
+   
+}
+  
+#country-name-input{
+
+  font-size:18px;
+  border-radius:9px;
+  padding: 15px 20px;
+  width: 250px;
+
+}
+
+#submit-button{
+  font-size: 18px;
+  background-color: aliceblue;
+  border-radius:9px;
+  padding: 15px 20px;
+  border: none;
+  
+}
+
+#country-info{
+  margin-top: 10px;
+  background-color: aliceblue;
+  padding: 15px 20px;
+  border-radius:9px;
+  
+}
+
+#bordering-countries{
+  background-color: aliceblue;
+  padding: 15px 20px;
+  border-radius:9px;
+}
